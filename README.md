@@ -89,10 +89,9 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
     </td>
   </tr>
   <tr>
-    <!-- TODO: ganti "sistem-logistik-kpu-cirebon" dengan nama repo yang benar (2 tempat) -->
     <td width="50%" align="center">
       <a href="https://github.com/IrvanAfriandi/sistem-logistik-kpu-kabupaten-cirebon">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrvanAfriandi&repo=sistem-logistik-kpu-cirebon&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrvanAfriandi&repo=sistem-logistik-kpu-kabupaten-cirebon&theme=tokyonight&hide_border=true" />
       </a>
     </td>
     <td width="50%" align="center">
