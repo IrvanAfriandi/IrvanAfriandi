@@ -64,7 +64,7 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
   </tr>
   <tr>
     <td><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,sass,js&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,sass,js,ts&theme=dark" /></td>
   </tr>
   <tr>
     <td><b>🧰 Tools</b></td>
@@ -124,7 +124,7 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=IrvanAfriandi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvanAfriandi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrvanAfriandi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrvanAfriandi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/6366f1/IrvanAfriandi" alt="Contribution Chart" width="90%" />
 </p>
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
