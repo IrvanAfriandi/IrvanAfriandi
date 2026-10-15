@@ -1,16 +1,16 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=230&section=header&text=Irvan%20Afriandi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=20&descAlignY=56&descColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/IrvanAfriandi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&height=40&lines=Hai%2C+saya+Irvan+Afriandi+%F0%9F%91%8B;Web+Developer+%7C+PHP+%26+Laravel;Membangun+sistem+yang+menyelesaikan+masalah+nyata;Sistem+Pakar+%E2%80%A2+SPK+%E2%80%A2+Sistem+Informasi+Manajemen" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&height=40&lines=Hai%2C+saya+Irvan+Afriandi+%F0%9F%91%8B;Web+Developer+%7C+PHP+%26+Laravel;Membangun+sistem+yang+menyelesaikan+masalah+nyata;Sistem+Pakar+%E2%80%A2+SPK+%E2%80%A2+Sistem+Informasi+Manajemen;Still+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://irvanafnd-portofolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Kunjungi-0ea5e9?style=for-the-badge&labelColor=0f172a" /></a>
+  <a href="https://irvanafnd-portofolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Kunjungi-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" /></a>
   <a href="https://www.linkedin.com/in/irvan21"><img src="https://img.shields.io/badge/LinkedIn-Terhubung-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
   <a href="mailto:irvan.afriandi21@gmail.com"><img src="https://img.shields.io/badge/Email-Hubungi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
 </p>
@@ -18,7 +18,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IrvanAfriandi&label=Profile%20Views&color=6366f1&style=flat-square" />
   <img src="https://img.shields.io/github/followers/IrvanAfriandi?label=Followers&style=flat-square&color=0ea5e9&logo=github" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/IrvanAfriandi?label=Total%20Stars&style=flat-square&color=8b5cf6&logo=github" />
+  <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-22c55e?style=flat-square" />
 </p>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
@@ -33,7 +34,7 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
   </tr>
   <tr>
     <td>🏫 <b>Kampus</b></td>
-    <td>Universitas Muhammadiyah Cirebon</td>
+    <td>Universitas Muhammadiyah Cirebon (2021 – 2025)</td>
   </tr>
   <tr>
     <td>💻 <b>Fokus</b></td>
@@ -41,7 +42,11 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
   </tr>
   <tr>
     <td>🌱 <b>Sedang dipelajari</b></td>
-    <td>Software Engineering, Data Analytics, dan best practice clean code</td>
+    <td>Software Engineering, Data Analytics, dan clean code</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Lokasi</b></td>
+    <td>Indonesia (UTC+7)</td>
   </tr>
   <tr>
     <td>📫 <b>Kontak</b></td>
@@ -55,21 +60,15 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
 <table>
   <tr>
     <td><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,python,mysql&theme=dark" /></td>
   </tr>
   <tr>
     <td><b>🎨 Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,sass,js&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,sass,js&theme=dark" /></td>
   </tr>
   <tr>
     <td><b>🧰 Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></td>
   </tr>
 </table>
 
@@ -79,20 +78,21 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
 <table>
   <tr>
     <td width="50%" align="center">
+      <a href="https://github.com/IrvanAfriandi/sistem-penilaian-otomatis-isian-singkat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrvanAfriandi&repo=sistem-penilaian-otomatis-isian-singkat&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" align="center">
       <a href="https://github.com/IrvanAfriandi/sistem-pakar-diagnosis-penyakit-hipertensi-pada-ibu-hamil">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrvanAfriandi&repo=sistem-pakar-diagnosis-penyakit-hipertensi-pada-ibu-hamil&theme=tokyonight&hide_border=true" />
       </a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/IrvanAfriandi/spk-dosen">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrvanAfriandi&repo=spk-dosen&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
   </tr>
   <tr>
+    <!-- TODO: ganti "sistem-logistik-kpu-cirebon" dengan nama repo yang benar (2 tempat) -->
     <td width="50%" align="center">
-      <a href="https://github.com/IrvanAfriandi/sistem-penilaian-otomatis-isian-singkat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrvanAfriandi&repo=sistem-penilaian-otomatis-isian-singkat&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/IrvanAfriandi/sistem-logistik-kpu-cirebon">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrvanAfriandi&repo=sistem-logistik-kpu-cirebon&theme=tokyonight&hide_border=true" />
       </a>
     </td>
     <td width="50%" align="center">
@@ -101,19 +101,11 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/IrvanAfriandi/game-edukasi-gizi-makanan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrvanAfriandi&repo=game-edukasi-gizi-makanan&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/IrvanAfriandi/irvanafnd-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrvanAfriandi&repo=irvanafnd-portfolio&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/IrvanAfriandi?tab=repositories"><img src="https://img.shields.io/badge/Lihat%20Semua%20Repositori%20→-6366f1?style=for-the-badge&labelColor=0f172a" /></a>
+</p>
 
 <!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
 ## 🎓 Pendidikan & Sertifikasi
@@ -137,7 +129,7 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IrvanAfriandi&theme=tokyonight&hide_border=true" height="170" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=IrvanAfriandi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -145,14 +137,17 @@ Lulusan **Teknik Informatika** yang fokus pada **pengembangan aplikasi web dan s
 </p>
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-## 🤝 Mari Berkolaborasi
+## 🤝 Mari Terhubung
 
-Terbuka untuk **kolaborasi proyek**, **diskusi teknologi**, dan **peluang karier** di bidang pengembangan web. Jangan ragu untuk menyapa! 
+Terbuka untuk **kolaborasi proyek**, **diskusi teknologi**, dan **peluang karier** di bidang pengembangan web. Jangan ragu untuk menyapa!
 
 <p align="center">
   <a href="https://irvanafnd-portofolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" /></a>
   <a href="https://www.linkedin.com/in/irvan21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
   <a href="mailto:irvan.afriandi21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
+  <a href="https://www.instagram.com/riandivn_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a" /></a>
+  <a href="https://www.tiktok.com/@irvanaf21"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0f172a" /></a>
+  <a href="https://youtube.com/@irvanafriandi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0f172a" /></a>
 </p>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
